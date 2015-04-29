@@ -1,1 +1,5 @@
-name, date, description
+Donald Disha
+4/28/2015
+
+My program maps the shadow of a 3D trapezoid shape onto a white rectangle.
+The shape is also rotating to show the movement of the shadow.
